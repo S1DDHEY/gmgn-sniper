@@ -1,0 +1,8 @@
+pandas
+pyautogui
+requests
+beautifulsoup4
+playwright
+opencv-python
+uvicorn
+fastapi
